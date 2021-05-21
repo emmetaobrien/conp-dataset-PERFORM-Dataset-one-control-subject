@@ -6,3 +6,4 @@
 **/LICENSE* annex.largefiles=nothing
 .conp-zenodo-crawler.json annex.largefiles=nothing
 config annex.largefiles=nothing
+**/ZENODO.cfg annex.largefiles=nothing
