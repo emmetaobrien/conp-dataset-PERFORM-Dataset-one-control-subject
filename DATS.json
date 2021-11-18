@@ -13,8 +13,7 @@
     "types": [
         {
             "identifier": {
-                "identifier": "113091000",
-                "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+                "identifier": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
             },
             "value": "MRI"
         },
@@ -25,8 +24,7 @@
         },
         {
             "identifier": {
-                "identifier": "ilx_0381893",
-                "identifierSource":"http://uri.interlex.org/base/ilx_0381893"
+                "identifier": "http://uri.interlex.org/base/ilx_0381893"
             },
             "value": "quality control subject"
         }
@@ -36,8 +34,8 @@
     "isAbout": [
         {
             "identifier": {
-                "identifier": "9606",
-                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+                "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+				"identifierSource": "NCBI Taxonomy Database"
             },
             "name":"Homo sapiens"
         },
