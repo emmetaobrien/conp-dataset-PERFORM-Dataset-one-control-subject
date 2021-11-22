@@ -1,0 +1,163 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3518486",
+        "identifierSource": "DOI"
+    },
+    "title": "PERFORM Dataset; one control subject",
+    "description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
+    "creators": [
+        {
+            "name": "PERFORM Centre Concordia University"
+        }
+    ],
+    "types": [
+        {
+            "identifier": {
+                "identifier": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+            },
+            "value": "MRI"
+        },
+        {
+            "information": {
+                "value": "EEG"
+            }
+        },
+        {
+            "identifier": {
+                "identifier": "http://uri.interlex.org/base/ilx_0381893"
+            },
+            "value": "quality control subject"
+        }
+    ],
+    "version": "1.0",
+    "privacy": "private",
+    "isAbout": [
+        {
+            "identifier": {
+                "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+				"identifierSource": "NCBI Taxonomy Database"
+            },
+            "name":"Homo sapiens"
+        },
+        {
+            "name": "adult"
+        }
+    ],
+    "spatialCoverage": [
+        {
+            "name": "Montr\u00e9al"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "Cite PERFORM Centre Concordia University as the source of data."
+        }
+    ],
+    "aggregation": "instance of dataset",
+    "keywords": [
+        {
+            "value": "control"
+        },
+        {
+            "valueIRI":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000",
+            "value": "MRI"
+        },
+        {
+            "value": "EEG"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "MINC",
+                "JSON"
+            ],
+            "access": {
+                "landingPage": "https://zenodo.org/record/3518486",
+                "authorizations": [
+                    {
+                        "value": "private"
+                    }
+                ]
+            },
+            "size": 195.6,
+            "unit": {
+                "value": "MB"
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "contact",
+            "values": [
+                {
+                    "value": "Tristan Glatard, tristan.glatard@concordia.ca"
+                }
+            ]
+        },
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "logo.png"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": 27
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}
