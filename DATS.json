@@ -12,10 +12,10 @@
     ],
     "types": [
         {
-            "identifier": {
-                "identifier": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
-            },
-            "value": "MRI"
+            "information" : {
+				"value": "MRI",
+                "valueIRI": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+            }
         },
         {
             "information": {
@@ -23,10 +23,10 @@
             }
         },
         {
-            "identifier": {
-                "identifier": "http://uri.interlex.org/base/ilx_0381893"
-            },
-            "value": "quality control subject"
+            "information": {
+				"value": "quality control subject",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0381893"
+            }
         }
     ],
     "version": "1.0",
