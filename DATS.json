@@ -14,7 +14,7 @@
         {
             "information": {
 			"value": "MRI",
-			"valueIRI": "http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+			"valueIRI": "http://uri.interlex.org/base/ilx_0779748"
             }
         },
         {
@@ -83,7 +83,7 @@
             "category": "contact",
             "values": [
                 {
-                    "value": "Tristan Glatard, tristan.glatard@concordia.ca"
+                    "value": "Mathieu Dugre, research@mathdugre.me"
                 }
             ]
         },
